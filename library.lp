@@ -1,0 +1,10 @@
+(librepcb_library a31dfbfe-2bc4-47b9-b003-7cb520c5bdd4
+ (name "Alps Alpine")
+ (description "Internet of Things, interfaces and sensors (unofficial)")
+ (keywords "")
+ (author "Tubbles")
+ (version "0.1")
+ (created 2023-07-21T22:28:08Z)
+ (deprecated false)
+ (url "")
+)

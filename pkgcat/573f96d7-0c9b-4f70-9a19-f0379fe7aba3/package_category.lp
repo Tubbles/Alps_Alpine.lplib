@@ -1,0 +1,10 @@
+(librepcb_package_category 573f96d7-0c9b-4f70-9a19-f0379fe7aba3
+ (name "Alps Alpine")
+ (description "")
+ (keywords "")
+ (author "Tubbles")
+ (version "0.1")
+ (created 2023-07-21T22:30:08Z)
+ (deprecated false)
+ (parent 194951ec-03dd-412a-9828-70c40bbdd22d)
+)
